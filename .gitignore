@@ -2,5 +2,6 @@
 \.ipynb_checkpoints/
 
 \.env
-
+\data
+\__pychache__  
 audio_features\.csv
